@@ -1,0 +1,164 @@
+{
+  "state": 0,
+  "params": {
+    "curr": "rub",
+    "spp": 0,
+    "version": 1
+  },
+  "data": {
+    "products": [
+      {
+        "id": 141021464,
+        "root": 120334143,
+        "kindId": 0,
+        "subjectId": 515,
+        "subjectParentId": 6258,
+        "name": "narzo 50i prime 3 32Gb",
+        "brand": "Realme",
+        "brandId": 48914,
+        "siteBrandId": 58914,
+        "supplierId": 95334,
+        "sale": 14,
+        "priceU": 699000,
+        "salePriceU": 601100,
+        "logisticsCost": 0,
+        "extended": {
+          "basicSale": 14,
+          "basicPriceU": 601100
+        },
+        "saleConditions": 9,
+        "pics": 7,
+        "rating": 5,
+        "feedbacks": 95,
+        "volume": 16,
+        "colors": [
+          {
+            "name": "синий",
+            "id": 255
+          }
+        ],
+        "promotions": [
+          66080,
+          66925,
+          76394,
+          79972,
+          84211,
+          90172,
+          92132,
+          98660,
+          106351,
+          119518,
+          135895,
+          137206,
+          145733
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 238961577,
+            "stocks": [
+              {
+                "wh": 507,
+                "qty": 3371,
+                "time1": 4,
+                "time2": 22
+              },
+              {
+                "wh": 117986,
+                "qty": 3498,
+                "time1": 2,
+                "time2": 46
+              }
+            ],
+            "time1": 4,
+            "time2": 22,
+            "wh": 507,
+            "sign": "eaSJHcALgU5uXRvVmS6EMWh9ygU="
+          }
+        ],
+        "diffPrice": false,
+        "time1": 4,
+        "time2": 22,
+        "wh": 507
+      },
+      {
+        "id": 141021467,
+        "root": 120334143,
+        "kindId": 0,
+        "subjectId": 515,
+        "subjectParentId": 6258,
+        "name": "narzo 50i prime 3 32Gb",
+        "brand": "Realme",
+        "brandId": 48914,
+        "siteBrandId": 58914,
+        "supplierId": 95334,
+        "sale": 14,
+        "priceU": 699000,
+        "salePriceU": 601100,
+        "logisticsCost": 0,
+        "extended": {
+          "basicSale": 14,
+          "basicPriceU": 601100
+        },
+        "saleConditions": 9,
+        "pics": 7,
+        "rating": 5,
+        "feedbacks": 95,
+        "volume": 16,
+        "colors": [
+          {
+            "name": "зеленый",
+            "id": 32768
+          }
+        ],
+        "promotions": [
+          66080,
+          66925,
+          76394,
+          79972,
+          84211,
+          90172,
+          92132,
+          98660,
+          106351,
+          119518,
+          135895,
+          137206,
+          145733
+        ],
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 238961580,
+            "stocks": [
+              {
+                "wh": 507,
+                "qty": 2324,
+                "time1": 4,
+                "time2": 22
+              },
+              {
+                "wh": 117986,
+                "qty": 2366,
+                "time1": 2,
+                "time2": 46
+              }
+            ],
+            "time1": 4,
+            "time2": 22,
+            "wh": 507,
+            "sign": "LuMzyImmmX1PPOjNvRPn3Wt2/0I="
+          }
+        ],
+        "diffPrice": false,
+        "time1": 4,
+        "time2": 22,
+        "wh": 507
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{% block content %}
+<h1>Найти товар по артиклю</h1>
+<form method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit" name='article'>Отправить</button>
+</form>
+<form action="{% url 'home' %}" method="POST" id="form" enctype="multipart/form-data">
+    <h1>Загрузить файл</h1>
+    {% csrf_token %}
+    {{table_form.as_p}}
+    <input name="file" accept="*/*" type="file" />
+    <button type="submit" name="file">Загрузить</button>
+</form>
+
+{% endblock %}
